@@ -9,7 +9,8 @@ I've done an exploration and visualization of the data using Matplotlib and Seab
 Exploration & Visualization
 -------
 
-For detailed code and process in the EDA, you can access the notebook <a href = 'https://github.com/farizdar/VideoGameSales-EDA/blob/master/Video%20Game%20Sales%20-%20EDA.ipynb'>here.</a>
+For detailed code and process in the EDA, you can access the notebook <a href = 'https://github.com/farizdar/VideoGameSales-EDA/blob/master/Video%20Game%20Sales%20-%20EDA.ipynb'>here.</a> <br>
+Here are some visualization samples from this project :
 
 <ul>
   <li>Global Top Selling Platform</li>
