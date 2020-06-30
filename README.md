@@ -4,10 +4,13 @@ An Exploratory Data Analysis (EDA) Project in a Video Game Sales dataset (Seabor
 About
 -------
 This project is a pet project of mine to explore a Video Game Sales dataset that you can access from this <a href="https://www.kaggle.com/gregorut/videogamesales">link.</a>
-I've done an exploration and visualization of the data using Matplotlib and Seaborn library.
+I've done an exploration and visualization of the data using Matplotlib and Seaborn library. 
 
 Exploration & Visualization
 -------
+
+For detailed code and process in the EDA, you can access the notebook <a href = 'https://github.com/farizdar/VideoGameSales-EDA/blob/master/Video%20Game%20Sales%20-%20EDA.ipynb'>here.</a>
+
 <ul>
   <li>Global Top Selling Platform</li>
   <p align="center">
@@ -16,14 +19,14 @@ Exploration & Visualization
   
   <li>Region Based Sales Annual Growth</li>
   <p align="center">
-    <img src="https://github.com/farizdar/VideoGameSales-EDA/blob/master/image/pointplot.png" width="1000" height="500" >
+    <img src="https://github.com/farizdar/VideoGameSales-EDA/blob/master/image/pointplot.png" width="800" height="600" >
   </p>
   
   <li>Annual Top Selling Games</li>
   <p align="center">
-    <img src="https://github.com/farizdar/VideoGameSales-EDA/blob/master/image/annual.png" width="1000" height="600" >
+    <img src="https://github.com/farizdar/VideoGameSales-EDA/blob/master/image/annual.png" width="800" height="600" >
   </p>
-</ul> 
+</ul>
 
 Conclusion
 -------
