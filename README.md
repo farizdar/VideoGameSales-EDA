@@ -20,12 +20,12 @@ Here are some visualization samples from this project :
   
   <li>Region Based Sales Annual Growth</li>
   <p align="center">
-    <img src="https://github.com/farizdar/VideoGameSales-EDA/blob/master/image/pointplot.png" width="800" height="600" >
+    <img src="https://github.com/farizdar/VideoGameSales-EDA/blob/master/image/pointplot.png" width="1000" height="600" >
   </p>
   
   <li>Annual Top Selling Games</li>
   <p align="center">
-    <img src="https://github.com/farizdar/VideoGameSales-EDA/blob/master/image/annual.png" width="800" height="600" >
+    <img src="https://github.com/farizdar/VideoGameSales-EDA/blob/master/image/annual.png" width="1000" height="600" >
   </p>
 </ul>
 
