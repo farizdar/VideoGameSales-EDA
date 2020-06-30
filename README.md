@@ -37,7 +37,7 @@ From my exploration, I can draw these conclusions :
     <li>2008 is a great year for the gaming industry.</li>
     <li>Japan has an exquisite taste in gaming, as its best selling gaming Genre is Role-Playing.</li>
     <li>Nintendo and Electronic Arts have done some really good job in publishing games.</li>
-    <li>Wii Sports is the highest selling game all time in 2006.</li>
+    <li>Wii Sports is the highest selling game of all time in 2006.</li>
     <li>For the next generation platform such as PS4, my suggestion for top publisher to make a bestselling game is to make an Action Genre game and try to target the Northern America Region as it is the biggest market.</li>
 </ul>
 
